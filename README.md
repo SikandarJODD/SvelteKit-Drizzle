@@ -30,3 +30,5 @@ Don't add <code>#</code> in Database Url , Dont add<code>#</code> in database Pa
   npm i
   npm run dev -- --open
 ```
+### Output 
+![Output](output.png)
