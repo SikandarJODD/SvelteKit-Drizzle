@@ -26,8 +26,7 @@ Don't add <code>#</code> in Database Url , Dont add<code>#</code> in database Pa
 ### Install Packages & Run
 
 ```
-    cd SvelteKit-Drizzle
-    npm i
-    npm run dev -- --open
-
+  cd SvelteKit-Drizzle
+  npm i
+  npm run dev -- --open
 ```
