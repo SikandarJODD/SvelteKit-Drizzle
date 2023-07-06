@@ -1,11 +1,11 @@
-# SvelteKit - Drizzle ORM - Supabase
 
-| Frameworks | Names                  |
+![Code](heading.jpg)
+| Frameworks | Names |
 | ---------- | ---------------------- |
-| Full Stack | SvelteKit              |
-| CSS        | Tailwind CSS, Daisy UI |
-| Backend    | Supabase               |
-| ORM        | Drizzle ORM            |
+| Full Stack | SvelteKit |
+| CSS | Tailwind CSS, Daisy UI |
+| Backend | Supabase |
+| ORM | Drizzle ORM |
 
 ### Git Clone Repo
 
