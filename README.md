@@ -28,7 +28,17 @@ Don't add <code>#</code> in Database Url , Dont add<code>#</code> in database Pa
 ```
   cd SvelteKit-Drizzle
   npm i
-  npm run dev -- --open
 ```
+
+### Supabase 
+- Go to Supabase > Go to SQL Editor
+- Click on <code>New Querry > New Blank Querry</code> 
+- Add your Generated SQL code 
+- Now You are Read to Go 
+
+### Run on Localhost 
+```
+   npm run dev -- --open
+ ```
 ### Output 
 ![Output](output.png)
