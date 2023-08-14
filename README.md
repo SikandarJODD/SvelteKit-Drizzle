@@ -12,6 +12,13 @@
 ```
   git clone https://github.com/SikandarJODD/SvelteKit-Drizzle.git
 ```
+or 
+### npm Install Package
+
+```
+  npm i sv-drizzle
+  
+```
 
 ### Create .env
 
